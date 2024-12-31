@@ -11,3 +11,7 @@
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=rishifx&theme=onedark)
 
 ![Snake Animation](https://github.com/rishifx/rishifx/raw/output/github-contribution-grid-snake.svg)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rishifx)
+
+![Funny GIF](https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif)
