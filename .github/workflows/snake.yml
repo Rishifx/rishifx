@@ -3,7 +3,7 @@ name: Generate Snake
 on:
   schedule:
     - cron: "0 0 * * *"  # Runs daily
-  workflow_dispatch:
+  workflow_dispatch:  # Manual trigger for testing
 
 permissions:
   contents: write
@@ -15,10 +15,16 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
 
+      # Debugging step to check the GitHub user's contribution data
+      - name: Test API Call to fetch user events
+        run: |
+          echo "Fetching user events..."
+          curl -s https://api.github.com/users/rishifx/events | jq .  # Replace with your GitHub username
+
       - name: Generate snake animation
         uses: Platane/snk@v2
         with:
-          github_user_name: rishifx 
+          github_user_name: rishifx  # Replace with your GitHub username
 
       - name: Push changes
         run: |
