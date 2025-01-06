@@ -14,7 +14,7 @@
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-![Coding GIF] (https://giphy.com/gifs/glitch-hacker-metaverse-bJ4TVNYNUympPgcpem).
+![Funny GIF](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNW90NzR3dWx2MGVmeTZxYXBwM2dwOHR6cHVteTdzYjlpZjZpYWszdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bJ4TVNYNUympPgcpem/giphy.gif)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rishifx&show_icons=true&theme=radical) 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=rishifx&theme=radical)
