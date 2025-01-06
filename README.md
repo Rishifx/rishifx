@@ -22,6 +22,5 @@
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=rishifx&theme=onedark)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rishifx)
-[![Portfolio](https://img.shields.io/badge/Portfolio-ff69b4?style=flat-square)](https://rishipathak.vercel.app.com)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-ff69b4?style=for-the-badge&logo=website&logoColor=white)](https://rishipathak.vercel.app.com)  
 
-![Funny GIF](https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif)
