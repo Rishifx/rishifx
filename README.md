@@ -1,4 +1,16 @@
 [![RISHI-PATHAK.png](https://i.postimg.cc/GtgCmmW9/RISHI-PATHAK.png)](https://postimg.cc/rR4bhMFL)
+# Hi there 👋, I'm [RISHI PATHAK]!
+
+🌟 **About Me**  
+- 🔭 Working on MERN and IoT projects.  
+- 🌱 Exploring AI/ML, Stock Market Prediction, and IoT.  
+- 👯 Open to collaborate on impactful projects.  
+
+🛠️ **Tech Stack**  
+- 💻 Languages: JavaScript, Python, TypeScript  
+- 🖥️ Frameworks: React, Node.js, Express, TensorFlow  
+- 🌐 Web: HTML, CSS, Tailwind  
+- ⚡ Databases: MongoDB, MySQL  
 
 ![Coding GIF](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
 
@@ -13,5 +25,6 @@
 ![Snake Animation](https://github.com/rishifx/rishifx/raw/output/github-contribution-grid-snake.svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rishifx)
+[![Portfolio](https://img.shields.io/badge/Portfolio-ff69b4?style=flat-square)](https://rishipathak.vercel.app.com)  
 
 ![Funny GIF](https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif)
