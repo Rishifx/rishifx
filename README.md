@@ -1,5 +1,5 @@
 [![RISHI-PATHAK.png](https://i.postimg.cc/GtgCmmW9/RISHI-PATHAK.png)](https://postimg.cc/rR4bhMFL)
-# Hi there 👋, I'm [RISHI PATHAK]!
+# Hi there 👋, I'm RISHI PATHAK
 
 🌟 **About Me**  
 - 🔭 Working on MERN and IoT projects.  
@@ -11,8 +11,6 @@
 - 🖥️ Frameworks: React, Node.js, Express, TensorFlow  
 - 🌐 Web: HTML, CSS, Tailwind  
 - ⚡ Databases: MongoDB, MySQL  
-
-![Coding GIF](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
