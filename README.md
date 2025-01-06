@@ -1,4 +1,4 @@
-![Banner](https://i.postimg.cc/GtgCmmW9/RISHI-PATHAK.png)
+[![RISHI-PATHAK.png](https://i.postimg.cc/GtgCmmW9/RISHI-PATHAK.png)](https://postimg.cc/rR4bhMFL)
 
 ![Coding GIF](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
 
