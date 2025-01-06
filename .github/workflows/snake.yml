@@ -5,16 +5,24 @@ on:
     - cron: "0 0 * * *"  # Runs daily
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
       - name: Generate snake animation
         uses: Platane/snk@v2
         with:
           github_user_name: rishifx  # Replace with your GitHub username
+
       - name: Push changes
         uses: ad-m/github-push-action@v0.6.0
         with:
           branch: output
           github_token: ${{ secrets.GITHUB_TOKEN }}
+
