@@ -16,11 +16,12 @@
 
 ![Funny GIF](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNW90NzR3dWx2MGVmeTZxYXBwM2dwOHR6cHVteTdzYjlpZjZpYWszdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bJ4TVNYNUympPgcpem/giphy.gif)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rishifx&show_icons=true&theme=radical) 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rishifx&show_icons=true&theme=radical)
+
 ![GitHub Streak](https://streak-stats.demolab.com/?user=rishifx&theme=radical)
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=rishifx&theme=onedark)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rishifx)
-[![Portfolio](https://img.shields.io/badge/Portfolio-ff69b4?style=for-the-badge&logo=website&logoColor=white)](https://rishipathak.vercel.app.com)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-ff69b4?style=for-the-badge&logo=website&logoColor=white)](https://rishipathak.vercel.app.com)
 
