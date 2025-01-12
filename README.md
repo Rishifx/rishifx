@@ -7,7 +7,7 @@
 - 👯 Open to collaborate on impactful projects.  
 
 🛠️ **Tech Stack**  
-- 💻 Languages: JavaScript, Python, TypeScript  
+- 💻 Languages: JavaScript, Python, TypeScript 
 - 🖥️ Frameworks: React, Node.js, Express, TensorFlow
 - 🌐 Web: HTML, CSS, Tailwind  
 - ⚡ Databases: MongoDB, MySQL  
