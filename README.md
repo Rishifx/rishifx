@@ -8,7 +8,7 @@
 
 🛠️ **Tech Stack**  
 - 💻 Languages: JavaScript, Python, TypeScript 
-- 🖥️ Frameworks: React, Node.js, Express, TensorFlow
+- 🖥️ Frameworks: React, Node.js, Express, TensorFlow 
 - 🌐 Web: HTML, CSS, Tailwind  
 - ⚡ Databases: MongoDB, MySQL  
 
