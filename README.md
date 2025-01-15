@@ -18,7 +18,9 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rishifx&show_icons=true&theme=radical)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rishifx&show_icons=true&theme=radical)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rishifx&theme=radical)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=rishifx&theme=radical) 
 
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=rishifx&theme=onedark)
