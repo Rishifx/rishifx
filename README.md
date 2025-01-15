@@ -2,7 +2,7 @@
 # Hi there 👋, I'm RISHI PATHAK
 
 🌟 **About Me**  
-- 🔭 Working on MERN and IoT projects.  
+- 🔭 Working on MERN and IoT projects. 
 - 🌱 Exploring AI/ML, Stock Market Prediction, and IoT.  
 - 👯 Open to collaborate on impactful projects.  
 
