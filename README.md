@@ -6,7 +6,7 @@
 - 🌱 Exploring AI/ML, Stock Market Prediction, and IoT.  
 - 👯 Open to collaborate on impactful projects.  
 
-🛠️ **Tech Stack**  
+🛠️ **Tech Stack** 
 - 💻 Languages: JavaScript, Python, TypeScript 
 - 🖥️ Frameworks: React, Node.js, Express, TensorFlow 
 - 🌐 Web: HTML, CSS, Tailwind  
