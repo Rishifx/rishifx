@@ -1,6 +1,5 @@
 <div align="center">
   
-[![RISHI-PATHAK.png](https://i.postimg.cc/GtgCmmW9/RISHI-PATHAK.png)](https://postimg.cc/rR4bhMFL)
 
 # Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm RISHI PATHAK
 
