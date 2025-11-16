@@ -83,7 +83,7 @@
           <img src="https://img.shields.io/badge/Demo-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white">
         </a>
       </p>
-      <p>An advanced IoT project that integrates multiple smart devices into a centralized control system.</p>
+      <p>ChartTalks, we empower traders and investors through expert financial analysis, personalized financial planning, and actionable consulting services. Our platform blends education with real-time market insights, enabling individuals and institutions to make smarter financial decisions. With a strong focus on community, inclusion, and knowledge-sharing, we provide webinars, sentiment polls, and AI-powered tools designed to help traders grow with confidence.</p>
     </td>
     <td width="50%">
       <h3 align="center">MERN Stack E-Learning Platform</h3>
