@@ -74,12 +74,12 @@
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">Smart Home IoT System</h3>
+      <h3 align="center">ChartTalks</h3>
       <p align="center">
-        <a href="https://github.com/rishifx/project-link" target="_blank">
+        <a href="https://www.charttalks.com" target="_blank">
           <img src="https://img.shields.io/badge/Code-4A4A4A?style=for-the-badge&logo=github&logoColor=white">
         </a>
-        <a href="https://project-demo-link.com" target="_blank">
+        <a href="https://www.charttalks.com" target="_blank">
           <img src="https://img.shields.io/badge/Demo-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white">
         </a>
       </p>
