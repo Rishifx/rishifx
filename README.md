@@ -106,39 +106,38 @@
 
 ---
 
-## 🏆 **My Projects**
+---
+
+## 🏆 My Projects
 
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">ChartTalks</h3>
+      <h3 align="center">AI-CRM-Chatbot</h3>
       <p align="center">
-        <a href="https://www.charttalks.com" target="_blank">
-          <img src="https://img.shields.io/badge/Code-4A4A4A?style=for-the-badge&logo=github&logoColor=white">
+        <a href="https://github.com/Rishifx/Ai-CRM-Chatbot.git" target="_blank">
+          <img src="https://img.shields.io/badge/Code-GitHub-black?style=for-the-badge&logo=github">
         </a>
-        <a href="https://www.charttalks.com" target="_blank">
-          <img src="https://img.shields.io/badge/Demo-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white">
+        <a href="https://rishipathak.vercel.app/" target="_blank">
+          <img src="https://img.shields.io/badge/Demo-Live-orange?style=for-the-badge&logo=google-chrome">
         </a>
       </p>
-      <p>
-        ChartTalks empowers traders using **AI-driven analytics, sentiment analysis, real-time market insights, 
-        community learning, and predictive financial tools** for smarter trading decisions.
+      <p align="center">
+        AI-powered CRM Assistant using <b>LLMs, FastAPI & React</b> to automate reminders, 
+        email drafting, customer interaction, and task management.
       </p>
     </td>
 
     <td width="50%">
-      <h3 align="center">AI-CRM-Chatbot</h3>
+      <h3 align="center">ChartTalks</h3>
       <p align="center">
-        <a href="https://github.com/Rishifx/Ai-CRM-Chatbot.git" target="_blank">
-          <img src="https://img.shields.io/badge/Code-4A4A4A?style=for-the-badge&logo=github&logoColor=white">
-        </a>
-        <a href="https://rishipathak.vercel.app/" target="_blank">
-          <img src="https://img.shields.io/badge/Demo-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white">
+        <a href="https://www.charttalks.com" target="_blank">
+          <img src="https://img.shields.io/badge/Live-Website-green?style=for-the-badge">
         </a>
       </p>
-      <p>
-        AI-powered CRM Assistant using **LLMs, FastAPI & React** to automate reminders, 
-        email drafting, customer interaction, and task management.
+      <p align="center">
+        ChartTalks empowers traders using <b>AI-driven analytics, sentiment analysis,
+        real-time market insights, community learning & predictive financial tools</b>.
       </p>
     </td>
   </tr>
@@ -146,28 +145,29 @@
 
 ---
 
-## 🤖 **AI / ML Featured Projects**
+## 🤖 AI / ML Featured Projects
 
 <table>
   <tr>
-    <td width="50%">
-      <h3 align="center">AI Stock Market Predictor</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Status-In_Progress-yellow?style=for-the-badge">
-      </p>
-      <p>
-        Deep Learning based **LSTM model** to predict stock price trends using historical data,
-        sentiment analysis and real-time APIs.
-      </p>
-    </td>
-
     <td width="50%">
       <h3 align="center">LLM Powered Assistant</h3>
       <p align="center">
         <img src="https://img.shields.io/badge/Status-In_Development-blue?style=for-the-badge">
       </p>
-      <p>
-        Multi-tool **AI Agent with memory, RAG, API calling and automation** for business and trading use cases.
+      <p align="center">
+        Multi-tool <b>AI Agent with memory, RAG, API calling & automation</b>
+        for business and trading use cases.
+      </p>
+    </td>
+
+    <td width="50%">
+      <h3 align="center">AI Stock Market Predictor</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Status-In_Progress-yellow?style=for-the-badge">
+      </p>
+      <p align="center">
+        Deep Learning based <b>LSTM model</b> to predict stock trends using
+        historical data, sentiment analysis & real-time APIs.
       </p>
     </td>
   </tr>
@@ -175,7 +175,7 @@
 
 ---
 
-## 🧪 **Current AI Research Interests**
+## 🧪 Current AI Research Interests
 
 - 🔍 Financial Time-Series Forecasting  
 - 🗣️ Conversational AI & RAG Systems  
@@ -185,21 +185,17 @@
 
 ---
 
-## 📫 **Connect With Me**
+## 📫 Connect With Me
 
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rishifx)
-[![Portfolio](https://img.shields.io/badge/Portfolio-ff69b4?style=for-the-badge&logo=website&logoColor=white)](https://rishipathak.vercel.app)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rishifx)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
-
-</div>
+[LinkedIn](https://linkedin.com/in/rishifx) |  
+[Portfolio](https://rishipathak.vercel.app) |  
+[GitHub](https://github.com/rishifx) |  
+[Twitter](https://twitter.com/yourusername)
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=rishifx&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
-  
-  ### "The only way to do great work is to love what you do." - Steve Jobs
+  <img src="https://komarev.com/ghpvc/?username=rishifx&color=blueviolet&style=flat-square&label=Profile+Views" />
+  <br/>
+  <b>"The only way to do great work is to love what you do."</b> – Steve Jobs
 </div>
