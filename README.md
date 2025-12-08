@@ -8,7 +8,7 @@
 
 ---
 
-## 🌟 About Me
+## About Me
 > Turning ideas into reality through code and innovation
 
 * Working on **MERN**, **AI/ML**, and **IoT** projects
@@ -18,7 +18,7 @@
 
 ---
 
-## 🧠 AI/ML Vision
+## AI/ML Vision
 > Building intelligent systems that learn from data and drive real-world impact
 
 * Building **AI-powered SaaS tools, CRM bots & assistants**
@@ -29,27 +29,27 @@
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
-### 💻 Languages
+### Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
-### 🖥️ Frameworks & Libraries
+### Frameworks & Libraries
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
-### 🌐 Web Technologies
+### Web Technologies
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### ⚡ Databases
+### Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
@@ -57,26 +57,26 @@
 
 ---
 
-## 🤖 AI / Machine Learning Stack
+## AI / Machine Learning Stack
 
 <div align="center">
 
-### 🧠 Core ML & DL
+### Core ML & DL
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-### 🗣️ NLP & LLM
+### NLP & LLM
 ![OpenAI](https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-0A192F?style=for-the-badge&logo=chainlink&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 
-### 📈 Data & Visualization
+### Data & Visualization
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=python&logoColor=black)
 
-### ⚙️ Model Deployment
+### Model Deployment
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
@@ -84,7 +84,7 @@
 
 ---
 
-## 📈 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
 
@@ -106,7 +106,7 @@
 
 ---
 
-## 🏆 My Projects
+## My Projects
 
 | Project | Description |
 | :---: | :--- |
@@ -115,7 +115,7 @@
 
 ---
 
-## 🤖 AI / ML Featured Projects
+## AI / ML Featured Projects
 
 | Project | Status & Description |
 | :---: | :--- |
@@ -124,7 +124,7 @@
 
 ---
 
-## 🧪 Current AI Research Interests
+## Current AI Research Interests
 
 * Financial Time-Series Forecasting
 * Conversational AI & RAG Systems
@@ -134,7 +134,7 @@
 
 ---
 
-## 📫 Connect With Me
+## Connect With Me
 
 * [LinkedIn](https://linkedin.com/in/rishifx)
 * [Portfolio](https://rishipathak.vercel.app)
