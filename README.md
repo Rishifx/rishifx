@@ -96,8 +96,8 @@
 <p><i>When the code finally works after debugging all night</i></p>
 
 ### GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=rishifx&show_icons=true&theme=radical" height="180em" alt="Rishi Pathak's GitHub Stats"/>
-<img src="https://streak-stats.demolab.com/?user=rishifx&theme=radical" height="180em" alt="Rishi Pathak's GitHub Streak"/>
+![Rishi Pathak's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rishifx&show_icons=true&theme=radical)
+![Rishi Pathak's GitHub Streak](https://streak-stats.demolab.com/?user=rishifx&theme=radical)
 
 ### GitHub Trophies
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=rishifx&theme=onedark&row=1&column=6&margin-w=15)
