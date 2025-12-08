@@ -119,8 +119,8 @@
 
 | Project | Status & Description |
 | :---: | :--- |
-| **LLM Powered Assistant** | **** <img src="https://img.shields.io/badge/Status-In_Development-blue?style=for-the-badge"> <br> Multi-tool **AI Agent with memory, RAG, API calling & automation** for business and trading use cases. |
-| **AI Stock Market Predictor** | **** <img src="https://img.shields.io/badge/Status-In_Progress-yellow?style=for-the-badge"> <br> Deep Learning based **LSTM model** to predict stock trends using historical data, sentiment analysis & real-time APIs. |
+| **LLM Powered Assistant** | <img src="https://img.shields.io/badge/Status-In_Development-blue?style=for-the-badge"> <br> Multi-tool **AI Agent with memory, RAG, API calling & automation** for business and trading use cases. |
+| **AI Stock Market Predictor** | <img src="https://img.shields.io/badge/Status-In_Progress-yellow?style=for-the-badge"> <br> Deep Learning based **LSTM model** to predict stock trends using historical data, sentiment analysis & real-time APIs. |
 
 ---
 
