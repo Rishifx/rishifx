@@ -1,121 +1,135 @@
 <div align="center">
-  
 
-# Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm RISHI PATHAK
+# Hi there 👋, I'm **Rishi Pathak**
+🚀 *AI Engineer | Machine Learning Researcher | MERN & Data Science Enthusiast*
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=MERN+Stack+Developer;IoT+Enthusiast;AI%2FML+Explorer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=AI+%26+Machine+Learning+Engineer;Deep+Learning+%7C+NLP+%7C+Computer+Vision;Quant+AI+for+Stock+Market+Prediction;MERN+Stack+%2B+AI+Integration;Building+Future+with+Data+%26+AI)](https://git.io/typing-svg)
 
 </div>
 
-## 🌟 **About Me**  
-> Turning ideas into reality through code and innovation
+---
 
-- 🔭 Working on **MERN** and **IoT** projects 
-- 🌱 Exploring **AI/ML**, **Stock Market Prediction**, and **IoT**  
-- 👯 Open to collaborate on impactful projects
-- 💬 Ask me about Web Development, IoT or AI
+## 🧠 **About Me**
+> *I build intelligent systems that learn from data and solve real-world problems.*
 
-## 🛠️ **Tech Stack** 
+- 🔭 Developing **AI-powered SaaS platforms & trading intelligence systems**
+- 🌱 Deep diving into **Machine Learning, Deep Learning, NLP & Quantitative AI**
+- 📊 Researching **Stock Market Prediction using AI & Time-Series Models**
+- 🤖 Building **AI Chatbots, Predictive Models & Automation Agents**
+- 👯 Open to collaborate on **AI research & real-world ML products**
+- 💬 Ask me about **Machine Learning, Neural Networks, AI APIs, MERN + AI**
+
+---
+
+## 🧬 **AI / ML Tech Stack**
 
 <div align="center">
-  
-### 💻 Languages
-  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
-### 🖥️ Frameworks & Libraries
-  
+### 🧠 Core AI & ML
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+### 📊 Data Science & Quant AI
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/Seaborn-2E4053?style=for-the-badge)
+
+### 🤖 MLOps & Deployment
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Cloud](https://img.shields.io/badge/Cloud_Deployment-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+
+---
+
+## 🌐 **Full-Stack & Integration**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-
-### 🌐 Web Technologies
-  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### ⚡ Databases
-  
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
 </div>
 
-## 📈 **GitHub Analytics**
+---
+
+## 🧪 **AI Research Interests**
+
+- 📈 Time-Series Forecasting for Stock Markets
+- 🧠 Deep Neural Networks & Transformers
+- 🗣️ Natural Language Processing & LLMs
+- 👁️ Computer Vision & Image Recognition
+- ⚙️ Reinforcement Learning for Trading Bots
+- 🤖 Autonomous AI Agents & Multi-Agent Systems
+
+---
+
+## 📊 **GitHub Analytics**
 
 <div align="center">
-  
-### Activity Graph
-  
+
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rishifx&theme=tokyo-night)
 
-### Coding Humor
-  
-![Funny GIF](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNW90NzR3dWx2MGVmeTZxYXBwM2dwOHR6cHVteTdzYjlpZjZpYWszdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bJ4TVNYNUympPgcpem/giphy.gif)
-<p><i>When the code finally works after debugging all night</i></p>
+<img src="https://github-readme-stats.vercel.app/api?username=rishifx&show_icons=true&theme=radical" height="180em"/>
+<img src="https://streak-stats.demolab.com/?user=rishifx&theme=radical" height="180em"/>
 
-### GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=rishifx&show_icons=true&theme=radical" height="180em" />
-<img src="https://streak-stats.demolab.com/?user=rishifx&theme=radical" height="180em" />
-
-### GitHub Trophies
-  
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=rishifx&theme=onedark&row=1&column=6&margin-w=15)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=rishifx&theme=onedark&row=1&column=6)
 
 </div>
 
-## 🏆 **My Projects**
+---
+
+## 🚀 **Flagship AI Projects**
 
 <table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">ChartTalks</h3>
-      <p align="center">
-        <a href="https://www.charttalks.com" target="_blank">
-          <img src="https://img.shields.io/badge/Code-4A4A4A?style=for-the-badge&logo=github&logoColor=white">
-        </a>
-        <a href="https://www.charttalks.com" target="_blank">
-          <img src="https://img.shields.io/badge/Demo-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white">
-        </a>
-      </p>
-      <p>ChartTalks, we empower traders and investors through expert financial analysis, personalized financial planning, and actionable consulting services. Our platform blends education with real-time market insights, enabling individuals and institutions to make smarter financial decisions. With a strong focus on community, inclusion, and knowledge-sharing, we provide webinars, sentiment polls, and AI-powered tools designed to help traders grow with confidence.</p>
-    </td>
-    <td width="50%">
-      <h3 align="center">Ai-CRM-Chatbot</h3>
-      <p align="center">
-        <a href="https://github.com/Rishifx/Ai-CRM-Chatbot.git" target="_blank">
-          <img src="https://img.shields.io/badge/Code-4A4A4A?style=for-the-badge&logo=github&logoColor=white">
-        </a>
-        <a href="https://rishipathak.vercel.app/" target="_blank">
-          <img src="https://img.shields.io/badge/Demo-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white">
-        </a>
-      </p>
-      <p>A professional AI-powered CRM assistant chatbot with a modern, responsive interface featuring light/dark themes. Built with React (Vite) frontend and FastAPI backend, this chatbot helps you manage your CRM tasks including calendar, reminders, emails, files, and contacts—all from one unified interface.</p>
-    </td>
-  </tr>
+<tr>
+<td width="50%">
+
+### 📊 ChartTalks – AI Trading Intelligence Platform
+🔗 https://www.charttalks.com  
+
+- AI-driven trader community & sentiment analytics  
+- Market prediction using ML & real-time data  
+- Personalized trader profiling with AI  
+- Live polls, smart dashboards & forecasting models  
+
+</td>
+
+<td width="50%">
+
+### 🤖 AI-CRM Intelligent Chatbot
+🔗 https://github.com/Rishifx/Ai-CRM-Chatbot  
+
+- LLM-powered CRM automation assistant  
+- React + FastAPI + ML backend  
+- Smart scheduling, email automation, file AI parsing  
+- Business intelligence chatbot system  
+
+</td>
+</tr>
 </table>
 
-## 📫 **Connect With Me**
+---
+
+## 🌍 **Connect With Me**
 
 <div align="center">
-  
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rishifx)
-[![Portfolio](https://img.shields.io/badge/Portfolio-ff69b4?style=for-the-badge&logo=website&logoColor=white)](https://rishipathak.vercel.app)
+[![Portfolio](https://img.shields.io/badge/AI_Portfolio-ff69b4?style=for-the-badge)](https://rishipathak.vercel.app)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rishifx)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
 
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=rishifx&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
-  
-  ### "The only way to do great work is to love what you do." - Steve Jobs
-</div>
 
+<img src="https://komarev.com/ghpvc/?username=rishifx&style=for-the-badge&color=blueviolet"/>
+
+### 💡 *"AI is not the future — AI is the present I am building."*
+
+</div>
