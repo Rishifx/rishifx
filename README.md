@@ -86,16 +86,16 @@
       <p>ChartTalks, we empower traders and investors through expert financial analysis, personalized financial planning, and actionable consulting services. Our platform blends education with real-time market insights, enabling individuals and institutions to make smarter financial decisions. With a strong focus on community, inclusion, and knowledge-sharing, we provide webinars, sentiment polls, and AI-powered tools designed to help traders grow with confidence.</p>
     </td>
     <td width="50%">
-      <h3 align="center">MERN Stack E-Learning Platform</h3>
+      <h3 align="center">Ai-CRM-Chatbot</h3>
       <p align="center">
-        <a href="https://github.com/rishifx/project-link" target="_blank">
+        <a href="https://github.com/Rishifx/Ai-CRM-Chatbot.git" target="_blank">
           <img src="https://img.shields.io/badge/Code-4A4A4A?style=for-the-badge&logo=github&logoColor=white">
         </a>
-        <a href="https://project-demo-link.com" target="_blank">
+        <a href="https://rishipathak.vercel.app/" target="_blank">
           <img src="https://img.shields.io/badge/Demo-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white">
         </a>
       </p>
-      <p>Feature-rich learning platform with interactive courses, real-time progress tracking and community forums.</p>
+      <p>A professional AI-powered CRM assistant chatbot with a modern, responsive interface featuring light/dark themes. Built with React (Vite) frontend and FastAPI backend, this chatbot helps you manage your CRM tasks including calendar, reminders, emails, files, and contacts—all from one unified interface.</p>
     </td>
   </tr>
 </table>
