@@ -11,21 +11,21 @@
 ## 🌟 About Me
 > Turning ideas into reality through code and innovation
 
-* 🔭 Working on **MERN**, **AI/ML**, and **IoT** projects
-* 🌱 Exploring **LLMs, Stock Market Prediction, NLP, Deep Learning & IoT**
-* 👯 Open to collaborate on **AI-powered SaaS & Research Projects**
-* 💬 Ask me about **Web Development, IoT, Machine Learning & LLMs**
+* Working on **MERN**, **AI/ML**, and **IoT** projects
+* Exploring **LLMs, Stock Market Prediction, NLP, Deep Learning & IoT**
+* Open to collaborate on **AI-powered SaaS & Research Projects**
+* Ask me about **Web Development, IoT, Machine Learning & LLMs**
 
 ---
 
 ## 🧠 AI/ML Vision
 > Building intelligent systems that learn from data and drive real-world impact
 
-* 🤖 Building **AI-powered SaaS tools, CRM bots & assistants**
-* 📊 Passionate about **Stock Market Prediction using ML & Deep Learning**
-* 🧬 Working on **NLP, Recommendation Systems & Time-Series Forecasting**
-* 🧠 Strong focus on **Prompt Engineering & RAG Systems**
-* ☁️ Deploying ML models using **FastAPI, Docker & Cloud**
+* Building **AI-powered SaaS tools, CRM bots & assistants**
+* Passionate about **Stock Market Prediction using ML & Deep Learning**
+* Working on **NLP, Recommendation Systems & Time-Series Forecasting**
+* Strong focus on **Prompt Engineering & RAG Systems**
+* Deploying ML models using **FastAPI, Docker & Cloud**
 
 ---
 
@@ -126,11 +126,11 @@
 
 ## 🧪 Current AI Research Interests
 
-* 🔍 Financial Time-Series Forecasting
-* 🗣️ Conversational AI & RAG Systems
-* 🧠 Multi-Agent LLM Architectures
-* 📊 Market Sentiment Analysis
-* 🧬 AI + IoT Predictive Automation
+* Financial Time-Series Forecasting
+* Conversational AI & RAG Systems
+* Multi-Agent LLM Architectures
+* Market Sentiment Analysis
+* AI + IoT Predictive Automation
 
 ---
 
@@ -139,7 +139,7 @@
 * [LinkedIn](https://linkedin.com/in/rishifx)
 * [Portfolio](https://rishipathak.vercel.app)
 * [GitHub](https://github.com/rishifx)
-* [Twitter](https://twitter.com/yourusername)
+* [Twitter](https://twitter.com/rishifx)
 
 ---
 
