@@ -2,7 +2,7 @@
 
 # Hi there 👋, I'm RISHI PATHAK
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FFD1&width=600&lines=AI+%26+ML+Engineer+in+Progress;LLM+%26+NLP+Explorer;Stock+Market+Prediction+Using+AI;MERN+%26+AI+Full+Stack+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FFD1&width=600&lines=AI+%26+ML+Engineer;LLM+%26+NLP+Explorer;Stock+Market+Prediction+Using+AI;MERN+%26+AI+Full+Stack+Developer)](https://git.io/typing-svg)
 
 </div>
 
