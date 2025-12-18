@@ -9,7 +9,7 @@
 ---
 
 ## About Me
-> Turning ideas into reality through code and innovation
+> Turning ideas into reality through code and innovation 
 
 * Working on **MERN**, **AI/ML**, and **IoT** projects
 * Exploring **LLMs, Stock Market Prediction, NLP, Deep Learning & IoT**
