@@ -96,18 +96,18 @@
 <div align="center">
 
 ### Activity Graph
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rishifx&theme=tokyo-night)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Rishifx&theme=tokyo-night)
 
 ### Coding Humor
 <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNW90NzR3dWx2MGVmeTZxYXBwM2dwOHR6cHVteTdzYjlpZjZpYWszdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bJ4TVNYNUympPgcpem/giphy.gif" alt="Funny GIF" width="480px"/>
 <p><i>When the code finally works after debugging all night</i></p>
 
 ### GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=rishifx&show_icons=true&theme=radical" height="180em" />
-<img src="https://streak-stats.demolab.com/?user=rishifx&theme=radical" height="180em" />
+<img src="https://github-readme-stats.vercel.app/api?username=Rishifx&show_icons=true&theme=radical" height="180em" />
+<img src="https://streak-stats.demolab.com/?user=Rishifx&theme=radical" height="180em" />
 
 ### GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=rishifx&theme=onedark&row=1&column=6&margin-w=15)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Rishifx&theme=onedark&row=1&column=6&margin-w=15)
 
 </div>
 
