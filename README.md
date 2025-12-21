@@ -108,7 +108,7 @@
 <img src="https://streak-stats.demolab.com/?user=Rishifx&theme=radical" height="180em" />
 
 ### GitHub Trophies
-https://github-profile-trophy.vercel.app/?username=Rishifx&theme=juicyfresh
+<img src="https://github-profile-trophy.vercel.app/?username=Rishifx&theme=juicyfresh" />
 
 </div>
 
