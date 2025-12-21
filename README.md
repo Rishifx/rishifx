@@ -28,6 +28,7 @@
 * Deploying ML models using **FastAPI, Docker & Cloud**
 
 ---
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Rishifx)](https://git.io/streak-stats)
 
 ## Tech Stack
 
