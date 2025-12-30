@@ -14,7 +14,7 @@
 * Working on **MERN**, **AI/ML**, and **IoT** projects
 * Exploring **LLMs, Stock Market Prediction, NLP, Deep Learning & IoT**
 * Open to collaborate on **AI-powered SaaS & Research Projects**
-* Ask me about **Web Development, IoT, Machine Learning & LLMs** 
+* Ask me about **Web Development, IoT, Machine Learning & LLMs**  
 
 ---
 
