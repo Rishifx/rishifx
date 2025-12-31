@@ -6,7 +6,7 @@
 
 </div> 
 
---- 
+---  
 
 ## About Me
 > Turning ideas into reality through code and innovation 
